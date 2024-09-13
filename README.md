@@ -67,8 +67,8 @@ The analysis demonstrates that a comprehensive approach, integrating multiple fa
 - Exploration of other models to validate findings.
 - Continuous updates with new data to refine the insights.
 
+<img width="1470" alt="Screenshot 2024-04-29 at 4 44 13 PM" src="https://github.com/user-attachments/assets/671694cb-631e-4a0a-9211-db30307010a0">
 
-[2024 Homelessness Distribution in Los Angeles Council Districts Dashboard.pdf](https://github.com/user-attachments/files/17000159/2024.Homelessness.Distribution.in.Los.Angeles.Council.Districts.Dashboard.pdf)
 ## Contact
 For any questions or further information, please contact:
 
